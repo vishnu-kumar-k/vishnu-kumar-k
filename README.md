@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJs.**
+- 🌱 I’m currently learning **ExpressJs.**
 
 - 👨‍💻 All of my projects are available at [https://vishnu-kumar-k.github.io/portfolio/](https://vishnu-kumar-k.github.io/portfolio/)
 

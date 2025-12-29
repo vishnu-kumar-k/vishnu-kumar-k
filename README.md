@@ -88,13 +88,5 @@ Cloud Security Engineer with **2+ years of hands-on experience** across **AWS, A
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnu-kumar-k&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-kumar-k"/>
-</p>
-
----
 
 ⭐ *Secure, automated, and scalable infrastructure is the goal — not an afterthought.*
